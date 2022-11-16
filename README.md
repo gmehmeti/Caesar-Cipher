@@ -11,4 +11,5 @@ Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
 
 The code uses the Python Tkinter library, which is very popular for building graphical user interfaces (GUIs). 
 
-![alt text](https://github.com/[gmehmeti]/[Caesar-Cipher]/blob/[main]/CipherDisk.jpg?raw=true)
+![Caesar Cipher](https://github.com/gmehmeti/Caesar-Cipher/blob/main/CipherDisk.jpg?raw=true)
+
